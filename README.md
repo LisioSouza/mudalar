@@ -50,13 +50,12 @@ $ node scripts/build-furniture.js
 
 # 5. Abra o arquivo index.html no navegador
 # Dica: Utilize a extensão "Live Server" para atualização automática em tempo real.
-
+```
 ## 🌐 Deploy
 
 O projeto está otimizado para ser hospedado gratuitamente no **GitHub Pages**. Basta ir nas configurações (`Settings`) deste repositório, navegar até a aba `Pages`, selecionar a branch `main` e salvar. Em poucos minutos o catálogo estará no ar!
 
 ---
-Desenvolvido com ☕ e código por [Lisio Souza].
+Desenvolvido com ☕ e código por [![Lisio Souza](https://img.shields.io/badge/Lisio_Souza-3B82F6?style=flat&logo=github&logoColor=white)](https://github.com/LisioSouza).
 
-*Este projeto foi desenvolvido como requisito de entrega das Atividades 4 e 5 (Construção de Site Simples com HTML, CSS e JS) da **Formação Desenvolvedor Full Stack Jr**, oferecida pela [+PraTi](https://maisprati.com.br/) em parceria com a [Codifica](https://codificaedu.com.br/) - 2026.*
-
+_Este projeto foi desenvolvido como requisito de entrega das Atividades 4 e 5 (Construção de Site Simples com HTML, CSS e JS) da [![Formação Desenvolvedor Full Stack Jr](https://img.shields.io/badge/Formação_Desenvolvedor_Full_Stack_Jr-16A34A?style=flat)](#), oferecida pela [+PraTi](https://maisprati.com.br/) em parceria com a [Codifica](https://codificaedu.com.br/) - 2026._
