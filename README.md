@@ -37,7 +37,7 @@ Para clonar e rodar esta aplicação no seu ambiente de desenvolvimento (recomen
 
 ```bash
 # 1. Clone este repositório
-$ git clone [https://github.com/SEU_USUARIO/mudalar.git](https://github.com/SEU_USUARIO/mudalar.git)
+$ git clone https://github.com/LisioSouza/mudalar.git
 
 # 2. Acesse a pasta do projeto
 $ cd mudalar
